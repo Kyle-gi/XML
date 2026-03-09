@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book category="fiction">
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1937</year>
+        <price>15.99</price>
+    </book>
+    <book category="non-fiction">
+        <title>Learning XML</title>
+        <author>Erik Ray</author>
+        <year>2003</year>
+        <price>34.95</price>
+    </book>
+    <book category="fiction">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <price>12.50</price>
+    </book>
+</library>
