@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<vetShop>
+    <product category="food">
+        <name language="en">Premium Dog Food</name>
+        <brand>Healthy Paws</brand>
+        <year>2021</year>
+        <price>25.99</price>
+    </product>
+    <product category="toys">
+        <name language="en">Chew Ball</name>
+        <brand>Playful Pups</brand>
+        <year>2019</year>
+        <price>15.50</price>
+    </product>
+    <product category="medicine">
+        <name language="en">Flea Treatment</name>
+        <brand>VetCare</brand>
+        <year>2018</year>
+        <price>45.00</price>
+    </product>
+    <product category="accessories" cover="plastic">
+        <name language="en">Pet Collar</name>
+        <brand>SafePets</brand>
+        <year>2020</year>
+        <price>19.99</price>
+    </product>
+    <product category="medicine">
+        <name language="en">Deworming Tablets</name>
+        <brand>HealthGuard</brand>
+        <section par="1">
+            <usage num="1">
+                <description>For small dogs</description>
+                <dosage>1 tablet per 10kg</dosage>
+            </usage>
+            <usage num="2">
+                <description>For large dogs</description>
+                <dosage>2 tablets per 20kg</dosage>
+            </usage>
+        </section>
+        <year>2017</year>
+        <price>35.75</price>
+    </product>
+</vetShop>
